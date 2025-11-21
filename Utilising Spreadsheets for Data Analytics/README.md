@@ -54,5 +54,6 @@ Maybe you have an idea for business what could be interesting to look into from 
 <p>
 Prepare to give a 5 minute introduction of your Overview sheet to your fellow analysts.
 </p>
-- **[Link to a Google sheet](https://docs.google.com/spreadsheets/d/1FQzuF10tYt3GSG6qsxbCxkccjhyf0_B-tP0UQK9J5LY/edit?gid=2048538382#gid=2048538382)**  
-
+<p>
+- <strong><a href="https://docs.google.com/spreadsheets/d/1FQzuF10tYt3GSG6qsxbCxkccjhyf0_B-tP0UQK9J5LY/edit?gid=2048538382#gid=2048538382">Link to a Google sheet</a></strong>
+</p>
