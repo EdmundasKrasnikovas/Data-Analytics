@@ -8,5 +8,5 @@ This repository contains projects and materials from the "Introduction to Data A
   <li>Structured Approach to Data Analytics (Google Sheets)</li>
   <li>Utilising Spreadsheets for Data Analytics (Google Sheets)</li>
   <li>SQL and Databases (BigQuery)</li>
-  <li>Advanced SQL and Databases (BigQuery)</li>
+  <li>Advanced SQL and Databases (BigQuery) </li>
 </ul>
