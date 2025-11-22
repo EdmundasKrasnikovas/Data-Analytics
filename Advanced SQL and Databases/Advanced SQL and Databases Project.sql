@@ -401,7 +401,7 @@ ORDER BY
 LIMIT
   500;
 
-*==============================================================
+/*==============================================================
  Advanced SQL Project: Customer Sales Analysis
  Active Customers in North America – Purchase & Order Threshold
  Task: 1.4  
