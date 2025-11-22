@@ -2,6 +2,12 @@
 
 This project is part of the Data Analytics course at Turing College. The goal is to work with the AdventureWorks 2005 database using SQL queries to solve various business questions. The database is accessible through the BigQuery account provided by Turing College.
 
+Within this folder, you will find a `.sql` file containing the queries used to generate all required outputs.  
+
+You can also review the executed queries together with their resulting datasets in the following:
+
+[Google Sheet — Queries & Results](https://docs.google.com/spreadsheets/d/1ax9KGGGl7BNdh-0jgTbLjBez3g319kOO-Eyy3jLGCEw/edit?gid=2048538382#gid=2048538382)  
+
 ---
 
 ## Tasks Overview
