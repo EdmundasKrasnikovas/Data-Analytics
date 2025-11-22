@@ -98,6 +98,6 @@ Include:
 - Average tax rate (`mean_tax_rate`) for each country  
 - Percentage of provinces with available tax rates (`perc_provinces_w_tax`)  
 
-Rules:  
+Rules: 
 - Only count the **highest tax rate** in provinces with multiple rates  
 - Ignore the `isonlystateprovinceFlag`
