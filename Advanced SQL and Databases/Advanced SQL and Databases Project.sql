@@ -122,7 +122,7 @@ ORDER BY
 LIMIT
   200;
 
-/*==============================================================
+/*=============================================================
  Advanced SQL Project: Customer Sales Analysis
  Detailed Overview of Individual Customers with Inactivity Filter
  Task: 1.2  
@@ -136,7 +136,7 @@ LIMIT
    - Determine inactivity: last order date older than 365 days
    - Rank by TotalAmountWithTax in descending order
    - Return top 200 customers
-==============================================================*/
+=============================================================*/
 
 
 WITH
