@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/EdmundasKrasnikovas/Data-Analytics/blob/main/SQL%20and%20Databases/AdventureWorks.png" alt="" width="1200"/>
+</p>
+
 # Advanced SQL and Databases
 
 This project is part of the Data Analytics course at Turing College. The goal is to work with the AdventureWorks 2005 database using SQL queries to solve various business questions. The database is accessible through the BigQuery account provided by Turing College.
