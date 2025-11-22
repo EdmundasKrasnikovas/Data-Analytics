@@ -1,6 +1,14 @@
-# Task: SQL and Databases
+<p align="center">
+  <img src="https://github.com/EdmundasKrasnikovas/Data-Analytics/blob/main/SQL%20and%20Databases/AdventureWorks.png" alt="" width="1200"/>
+</p>
 
-In this graded task, you will be asked to create queries to solve specific business questions.
+---
+# SQL and Databases BigQuery
+
+This project is part of the Data Analytics course at Turing College. The goal is to work with the AdventureWorks 2005 database using SQL queries to solve various business questions. The database is accessible through the BigQuery account provided by Turing College.
+Within this folder, you will find a .sql file containing the queries used to generate all required outputs.
+You can also review the executed queries together with their resulting datasets in the following:
+[Google Sheet — Queries & Results](https://docs.google.com/spreadsheets/d/1CJh_QVcgP8kzgzTLEpxzSC58V20_937g-LEQiNZR4Sc/edit?gid=2048538382#gid=2048538382)
 
 ---
 
